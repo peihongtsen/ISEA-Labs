@@ -7,6 +7,7 @@ Lab documentation for **Murdoch BRG-ISEA – Introduction to Server Environments
 | Student Name | Tsen Pei Hong |
 | Kaplan ID | CT0375497 |
 | Murdoch ID | 36431456 |
+| Additional Service | Nextcloud |
 | Environment | Ubuntu 26.04.1 LTS on VirtualBox (local) and Ubuntu 24.04 LTS on AWS EC2 (cloud) |
 | Live site | https://peihong-isea.duckdns.org |
 
@@ -24,6 +25,30 @@ Lab documentation for **Murdoch BRG-ISEA – Introduction to Server Environments
 | 8 | [Lab 3a](Lab3a-DNS-and-HTTPS/README.md) | Domain, DNS and HTTPS with Let's Encrypt |
 
 More labs will be added as the unit continues.
+
+## Additional Server Service
+
+| Service | Topic |
+|---|---|
+| [Nextcloud](Additional-Service-Nextcloud/README.md) | Self-hosted file sharing server with users and permissions |
+
+## My Learning Blog
+
+### 1. What I learned about using Linux Ubuntu
+*21 Nov 2026*
+
+Before this module, I had never used Linux. I only knew that many people use it to set up servers.
+
+The hardest part for me was installing software on Linux and then setting up security, such as opening the right ports in the firewall so that other people can access the service. It is not enough to just install something; the server must also be configured correctly.
+
+The command I used the most is `apt install`, because almost everything I needed had to be downloaded and installed with it.
+
+Now I think the command line is better than a GUI. The command line shows more detailed information, and I do not need to spend time searching through menus. I just type the command and get the result straight away. I think this is also why most servers do not have a GUI.
+
+These skills are useful for my career. A system engineer works with many VMs and servers every day. In IT support we use them less often, but knowing the basics is much better than knowing nothing.
+
+Next time, I will check the settings carefully before I install a VM. When I set up more VMs in the future, I need to be more careful.
+
 
 ## AI Tools Used
 
