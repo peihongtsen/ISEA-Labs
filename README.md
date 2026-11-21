@@ -23,6 +23,7 @@ Lab documentation for **Murdoch BRG-ISEA – Introduction to Server Environments
 | 6 | [Lab 2a-1](Lab2a-1-TCO-Analysis/README.md) | Total Cost of Ownership (TCO) analysis |
 | 7 | [Lab 2a-2](Lab2a-2-AWS-EC2-Web-Server/README.md) | Cloud web server on AWS EC2 with Apache |
 | 8 | [Lab 3a](Lab3a-DNS-and-HTTPS/README.md) | Domain, DNS and HTTPS with Let's Encrypt |
+| 9 | [Lab 2b-1](Lab2b-1-Bash-Scripting/README.md) | Bash scripting and system automation |
 
 More labs will be added as the unit continues.
 
