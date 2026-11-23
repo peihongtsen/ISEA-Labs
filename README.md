@@ -25,6 +25,7 @@ Lab documentation for **Murdoch BRG-ISEA – Introduction to Server Environments
 | 8 | [Lab 3a](Lab3a-DNS-and-HTTPS/README.md) | Domain, DNS and HTTPS with Let's Encrypt |
 | 9 | [Lab 2b-1](Lab2b-1-Bash-Scripting/README.md) | Bash scripting and system automation |
 | 10 | [Lab 2b-2 / 2b-3](Lab2b-2-3-Regex-AWK-Apache-Logs/README.md) | Regex, AWK and Apache log analysis |
+| 11 | [Lab 3b-1](Lab3b-1-Backup-Script-Cron-Cloud/README.md) | Backup script, cron jobs and cloud export with scp |
 
 More labs will be added as the unit continues.
 
