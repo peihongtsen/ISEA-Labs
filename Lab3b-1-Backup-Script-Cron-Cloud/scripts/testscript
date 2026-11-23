@@ -1,0 +1,11 @@
+#!/bin/bash
+now=$(date +"%d_%m_%y_%H%M")
+KEY=/home/peihong/isea-key.pem
+DEST=ubuntu@3.26.212.44:/home/ubuntu/
+ZIP=/home/peihong/backup_$now.zip
+mkdir -p /home/peihong/backup
+cp -R /home/peihong/Documents/* /home/peihong/backup/
+cd /home/peihong
+zip -r $ZIP backup > /dev/null
+scp -i $KEY $ZIP $DEST
+echo "Backup backup_$now.zip done"
