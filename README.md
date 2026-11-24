@@ -22,12 +22,12 @@ Lab documentation for **Murdoch BRG-ISEA – Introduction to Server Environments
 | 5 | [Lab 1b-3](Lab1b-3-Searching-File-Systems/README.md) | File search, analysis and archiving |
 | 6 | [Lab 2a-1](Lab2a-1-TCO-Analysis/README.md) | Total Cost of Ownership (TCO) analysis |
 | 7 | [Lab 2a-2](Lab2a-2-AWS-EC2-Web-Server/README.md) | Cloud web server on AWS EC2 with Apache |
-| 8 | [Lab 3a](Lab3a-DNS-and-HTTPS/README.md) | Domain, DNS and HTTPS with Let's Encrypt |
-| 9 | [Lab 2b-1](Lab2b-1-Bash-Scripting/README.md) | Bash scripting and system automation |
-| 10 | [Lab 2b-2 / 2b-3](Lab2b-2-3-Regex-AWK-Apache-Logs/README.md) | Regex, AWK and Apache log analysis |
+| 8 | [Lab 2b-1](Lab2b-1-Bash-Scripting/README.md) | Bash scripting and system automation |
+| 9 | [Lab 2b-2 / 2b-3](Lab2b-2-3-Regex-AWK-Apache-Logs/README.md) | Regex, AWK and Apache log analysis |
+| 10 | [Lab 3a](Lab3a-DNS-and-HTTPS/README.md) | Domain, DNS and HTTPS with Let's Encrypt |
 | 11 | [Lab 3b-1](Lab3b-1-Backup-Script-Cron-Cloud/README.md) | Backup script, cron jobs and cloud export with scp |
 
-More labs will be added as the unit continues.
+All labs are completed (November 2026). Each folder has a README with steps, commands, outputs and screenshots.
 
 ## Additional Server Service
 
